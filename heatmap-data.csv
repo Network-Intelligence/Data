@@ -1,0 +1,9 @@
+group,variable,value
+PCI,PWD1,Compliant
+PCI,PWD2,Non-Compliant
+NIST,500-83,Compliant
+NIST,500-83,Non-Compliant
+HIPPA,169A.1,Compliant
+HIPPA,169A.2,Non-Compliant
+CIS,AC1,Compliant
+CIS,AC2,Non-Compliant
